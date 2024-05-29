@@ -4,7 +4,9 @@
 
 - I also completed a **Bachelor of Artificial Intelligence** degree at [LZU](https://en.lzu.edu.cn/)
 
-- My favourite programming language is [Python](https://www.python.org/)
+- My favourite programming language is [C#](https://dotnet.microsoft.com/en-us/languages/csharp)
+
+- My favourite framework is [.Net](https://dotnet.microsoft.com/en-us/)
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/zanewen007/)
   <br />
