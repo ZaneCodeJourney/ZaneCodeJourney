@@ -4,7 +4,7 @@
 
 - I also completed a **Bachelor of Artificial Intelligence** degree at [LZU](https://en.lzu.edu.cn/)
 
-- Recently, I am studying software development.
+- I'm working in [Singular Health Group Ltd](https://singular.health/) as a software developer.
 
 - My favourite programming language is [Python](https://dotnet.microsoft.com/en-us/languages/csharp)
 
