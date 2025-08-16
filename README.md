@@ -4,7 +4,7 @@
 
 - I also completed a **Bachelor of Artificial Intelligence** degree at Lanzhou University.
   
-- I'm currently working as an IT Solution Developer at Perth Packaging Supply.
+- I'm currently seeking a job.
 
 - My favourite programming language is Python.
 
