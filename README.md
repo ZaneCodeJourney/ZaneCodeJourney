@@ -1,12 +1,12 @@
 # Welcome 👋
 
-- I'm a **Master of Information Technology** graduate from [UWA](https://www.uwa.edu.au)
+- I'm a **Master of Information Technology** graduate from the University of Western Australia.
 
-- I also completed a **Bachelor of Artificial Intelligence** degree at [LZU](https://en.lzu.edu.cn/)
+- I also completed a **Bachelor of Artificial Intelligence** degree at Lanzhou University.
+  
+- I'm currently working as an IT Solution Developer at Perth Packaging Supply.
 
-- I'm currently seeking a job.
-
-- My favourite programming language is [Python](https://dotnet.microsoft.com/en-us/languages/csharp)
+- My favourite programming language is Python.
 
 - Connect with me on [LinkedIn](https://www.python.org/)
   <br />
